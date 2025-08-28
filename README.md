@@ -63,3 +63,22 @@ Some of reasons why it's considered the industry standard:
 - It's cheaper to adjust a wireframe, rather than re-write code after development.
 - Acts as a shared language between the different teams working on one project. (UI/UX Designer, Web Developer, Product Owner, etc..)
 - Developers can anticipate what kind of APIs or databases they would need depending on the wireframe given to them beforehand.
+
+# Wireframing in Practice
+This boils down to a four step scenario.
+- The situation
+- Usability issue discovered.
+- How this issue was resolved.
+- It's impact on the Final Product.
+
+## The Situtation
+A product team was designing a new checkout feature for an e-commerce platform. Before writing a single line of code, they created wireframes to visualize the user flow from “Add to Cart” to “Payment Confirmation.”
+
+## Usability issue discovered
+The initial wireframe required users to click through five different screens to complete checkout (shipping info, billing info, account creation, review order, payment). Testers immediately flagged this as too long and frustrating.
+
+## How this issue was resolved
+Combined shipping and billing into a single screen and allowed order review + payment on one page thus, reducing steps from 5 to 3.
+
+## Impact on Final Product
+Higher converstion rate as there was reduced cart abandonment, and improved user satisfaction as users reported the checkout as "faster and easier."
