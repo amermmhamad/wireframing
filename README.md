@@ -57,3 +57,9 @@ Some of reasons why it's considered the industry standard:
 - Has a huge community of free templates and UI kits to speed up your process.
 - Because it’s widely used in the industry, learning Figma builds relevant job skills for web development and design roles.
 
+# Benefits of wireframing from a software development perspective
+- Wireframes reduce misunderstandings
+- Helps developers see exactly what is required, instead of guessing from a vague text source.
+- It's cheaper to adjust a wireframe, rather than re-write code after development.
+- Acts as a shared language between the different teams working on one project. (UI/UX Designer, Web Developer, Product Owner, etc..)
+- Developers can anticipate what kind of APIs or databases they would need depending on the wireframe given to them beforehand.
