@@ -42,3 +42,18 @@ When Used:
 ## Type of Wireframe used in the airbnb clone
 It's a high-fidelity wireframe.
 You can tell because it includes the typogrophy, colors, icons, images, etc.. and it looks exactly like what you'd want the end product to look like.
+
+# Popular wireframing tools
+- Figma
+- Sketch
+- Adobe XD
+- InVision
+
+## Figma
+Figma is one of the best all-in-one tools for wireframing and prototyping, especially for learners and teams aiming for professional standards.<br>
+Some of reasons why it's considered the industry standard:
+- Lets you start low-fidelity (simple boxes, layouts) and gradually refine to high-fidelity designs without switching tools.
+- Makes it easy to share work with teammates, mentors, or recruiters via a simple link.
+- Has a huge community of free templates and UI kits to speed up your process.
+- Because it’s widely used in the industry, learning Figma builds relevant job skills for web development and design roles.
+
